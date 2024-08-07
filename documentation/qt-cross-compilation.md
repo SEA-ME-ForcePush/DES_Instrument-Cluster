@@ -3,7 +3,7 @@ Cross-compilation is the process of compiling code on one computer system (calle
 This process is useful in embedded systems as the target device has limited resources and cannot host a compiler or development environment, such as microcontrollers or IoT devices
 
 # How can we cross compile Qt for RaspberryPi? 
-https://wiki.qt.io/Qtrpi
-https://github.com/neuronalmotion/qtrpi
-https://www.youtube.com/watch?v=YYOjdwT5UuQ
-https://www.youtube.com/watch?v=eCdPfnR8iI0
+https://wiki.qt.io/Qtrpi  
+https://github.com/neuronalmotion/qtrpi  
+https://www.youtube.com/watch?v=YYOjdwT5UuQ  
+https://www.youtube.com/watch?v=eCdPfnR8iI0  
