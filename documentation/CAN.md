@@ -31,8 +31,8 @@ https://www.youtube.com/watch?v=FqLDpHsxvf8
 https://www.youtube.com/watch?v=oYps7vT708E&t=0s
 
 # ToDo (Further ressources for better understanding and improving documentation)
-https://www.youtube.com/watch?v=YBrU_eZM110
-https://www.youtube.com/watch?v=z5CVljiLhvc
-https://www.youtube.com/watch?v=YbF3idCk4EQ
-https://www.youtube.com/watch?v=JZSCzRT9TTo
-https://www.youtube.com/watch?v=cAAzXM5vsi0
+https://www.youtube.com/watch?v=YBrU_eZM110  
+https://www.youtube.com/watch?v=z5CVljiLhvc  
+https://www.youtube.com/watch?v=YbF3idCk4EQ  
+https://www.youtube.com/watch?v=JZSCzRT9TTo  
+https://www.youtube.com/watch?v=cAAzXM5vsi0  
