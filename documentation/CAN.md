@@ -31,6 +31,8 @@ https://www.youtube.com/watch?v=FqLDpHsxvf8
 https://www.youtube.com/watch?v=oYps7vT708E&t=0s
 
 # ToDo (Further ressources for better understanding and improving documentation)
+https://www.youtube.com/watch?v=DonsJ5cW55I ( Tesla CAN Bus Raspberry Pi )  
+https://www.youtube.com/watch?v=62txKc7EtCA ( Tesla CAN Bus - Quick Exploration )  
 https://www.youtube.com/watch?v=YBrU_eZM110 ( CAN Bus: A Beginners Guide Part 1 )  
 https://www.youtube.com/watch?v=z5CVljiLhvc ( CAN Bus: A Beginners Guide Part 2 )  
 https://www.youtube.com/watch?v=YbF3idCk4EQ ( CAN Bus Communication Explained (Part 1) )  
