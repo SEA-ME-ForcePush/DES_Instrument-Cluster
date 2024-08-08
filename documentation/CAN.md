@@ -31,8 +31,11 @@ https://www.youtube.com/watch?v=FqLDpHsxvf8
 https://www.youtube.com/watch?v=oYps7vT708E&t=0s
 
 # ToDo (Further ressources for better understanding and improving documentation)
-https://www.youtube.com/watch?v=YBrU_eZM110  
-https://www.youtube.com/watch?v=z5CVljiLhvc  
-https://www.youtube.com/watch?v=YbF3idCk4EQ  
-https://www.youtube.com/watch?v=JZSCzRT9TTo  
-https://www.youtube.com/watch?v=cAAzXM5vsi0  
+https://www.youtube.com/watch?v=YBrU_eZM110 ( CAN Bus: A Beginners Guide Part 1 )  
+https://www.youtube.com/watch?v=z5CVljiLhvc ( CAN Bus: A Beginners Guide Part 2 )  
+https://www.youtube.com/watch?v=YbF3idCk4EQ ( CAN Bus Communication Explained (Part 1) )  
+https://www.youtube.com/watch?v=mNjISEK5VMg ( CAN Bus Wiring and Protocol Explained (Part 2) )  
+https://www.youtube.com/watch?v=7AAiP3Ryh2o ( CAN Bus Troubleshooting and Diagnosis Explained (Part 3) )  
+https://www.youtube.com/watch?v=JZSCzRT9TTo ( CAN Bus: Serial Communication - How It Works? )  
+https://www.youtube.com/watch?v=cAAzXM5vsi0 ( How to hack your car | Part 1 - The basics of the CAN bus )  
+https://www.youtube.com/watch?v=ZhYc95b6WoU ( How to hack your car | Part 2 - CAN Sniffer app )  
